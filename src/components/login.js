@@ -6,7 +6,10 @@ import LockOutlinedIcon from '@material-ui/icons/LockOutlined';
 
 const Login = () => {
 
-    const paperStyle = {padding: 20, height:'50vh', width:280, margin:'20px auto'}
+    const paperStyle = { padding: '30px 20px',
+    height: "70vh",
+    width: 300,
+    margin: "20px auto",}
     const avatarStyle ={ backgroundColor:'#96346f'}
     const buttonStyle ={margin:'10px 0px 15px 0px'}
     const passStyle ={margin:'12px 0px 10px 0px'}
